@@ -1,5 +1,5 @@
 # Yanisse F.
-## Actuellement étudiant en 3e année de licence informatique
+## Actuellement étudiant en 1e année de master informatique
 
 ### Mes intérêts :
 

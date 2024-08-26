@@ -1,5 +1,5 @@
 # Yanisse F.
-## Actuellement étudiant en 1e année de Master Informatique
+## Actuellement étudiant en 2e année de Master Informatique parcours Image, Développement et Technologies 3D
 
 ### Mes intérêts :
 

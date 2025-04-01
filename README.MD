@@ -1,6 +1,10 @@
-# Yanisse F.
-## Actuellement étudiant en 2e année de Master Informatique parcours Image, Développement et Technologies 3D
+# Yanisse FERHAOUI
+## Student in the 2nd year of a Master's degree in Computer Science (Image, Development and 3D Technologies)
 
-### Mes intérêts :
+### My main interests :
 
-  Je répertorie ici mes projets réalisés durant mon parcours scolaire, ainsi que quelques petits projets que j'ai pu commencer durant mon temps libre.
+  - AI Research (mainly in Computer Vision)
+  - Software development
+  - Mesh and geometry computation
+
+My github mainly contains Lab work I did during my scholar years, and some project I did during my free time.

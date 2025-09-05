@@ -3,6 +3,9 @@
 
 ### My main interests :
 
-  - AI Research (mainly in Computer Vision)
   - Software development
+  - 3D rendering
+  - AI Research (mainly in Computer Vision)
   - Mesh and geometry computation
+
+My repositories include both academic projects and personal experiments related to my interests.
